@@ -1,0 +1,6 @@
+2026-10-11 09:00:00 user=admin ip=192.0.2.10 status=FAILED
+2026-10-11 09:00:10 user=admin ip=192.0.2.10 status=FAILED
+2026-10-11 09:00:20 user=admin ip=192.0.2.10 status=FAILED
+2026-10-11 09:01:00 user=alice ip=192.0.2.20 status=SUCCESS
+2026-10-11 09:02:00 user=bob ip=192.0.2.30 status=FAILED
+2026-10-11 09:02:10 user=bob ip=192.0.2.30 status=FAILED
